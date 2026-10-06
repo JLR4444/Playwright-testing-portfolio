@@ -8,11 +8,11 @@ El proyecto se ha realizado en equipo siguiendo metodología ágil Scrum y BDD p
 - ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)  
 - ![Playwright](https://img.shields.io/badge/Playwright-v1.48-green)
 
-## Resultados de las pruebas automatizadas
+## Resultados de las pruebas automatizadas: [Test Workflow](https://github.com/JLR4444/Playwright-testing-portfolio/blob/main/testresults.pdf)
 
-Se ha configurado un flujo de integración continua con github actions que ejecuta las pruebas después de cada cambio y una vez a la semana al final de cada sprint. Puede consultar en este enlace el resultado de la ultima ejecucion de pruebas y descargar el reporte de los resultados de las pruebas:
 
-![Test Workflow](https://github.com/JLR4444/Playwright-testing-portfolio/blob/main/testresults.pdf)
+Se ha configurado un flujo de integración continua con github actions que ejecuta las pruebas después de cada cambio y una vez a la semana al final de cada sprint. Puede consultar en este enlace el resultado de la ultima ejecucion de pruebas y descargar el reporte de los resultados de las pruebas
+
 
 
 ## Plan de Pruebas, resultados y reporte de errores: [Ver Plan de Pruebas](https://github.com/JLR4444/Playwright-testing-portfolio/blob/main/testplancomplete.pdf.pdf)
