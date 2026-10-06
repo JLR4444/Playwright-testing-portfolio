@@ -16,7 +16,7 @@ En este documento se detalla el plan de pruebas, las funcionalidades probadas, e
 
 Se ha configurado un flujo de integración continua con github actions que ejecuta las pruebas después de cada cambio y una vez a la semana al final de cada sprint. Puede consultar en este enlace el resultado de la ultima ejecucion de pruebas y descargar el reporte de los resultados de las pruebas:
 
-![Test Workflow](https://github.com/JLR4444/Playwright-testing-portfolio/actions/workflows/playwright_tests.yml/badge.svg)
+![Test Workflow](https://github.com/JLR4444/Playwright-testing-portfolio/blob/main/testresults.pdf)
 
 ## Requisitos del Proyecto
 
